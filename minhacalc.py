@@ -16,7 +16,7 @@ print("4 - MULTIPLICAR")
 print("\n")
 
 
-calculo = str(input("SELECIONE O CALCULO QUU DESEJAS (1/2/3/4): "))
+calculo = str(input("SELECIONE O CALCULO QUE DESEJAS (1/2/3/4): "))
 
 print("\n")
 #SOMAR
