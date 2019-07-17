@@ -1,2 +1,2 @@
 # firstCalculator
-Minha primeira calculadora desenvolvida em PYTHON
+My first calculator developed in Python.
